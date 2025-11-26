@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\cicl2\cicl2\bin\Debug\net10.0\cicl2.exe
+C:\Users\user\source\repos\cicl2\cicl2\bin\Debug\net10.0\cicl2.deps.json
+C:\Users\user\source\repos\cicl2\cicl2\bin\Debug\net10.0\cicl2.runtimeconfig.json
+C:\Users\user\source\repos\cicl2\cicl2\bin\Debug\net10.0\cicl2.dll
+C:\Users\user\source\repos\cicl2\cicl2\bin\Debug\net10.0\cicl2.pdb
+C:\Users\user\source\repos\cicl2\cicl2\obj\Debug\net10.0\cicl2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\cicl2\cicl2\obj\Debug\net10.0\cicl2.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\cicl2\cicl2\obj\Debug\net10.0\cicl2.AssemblyInfo.cs
+C:\Users\user\source\repos\cicl2\cicl2\obj\Debug\net10.0\cicl2.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\cicl2\cicl2\obj\Debug\net10.0\cicl2.dll
+C:\Users\user\source\repos\cicl2\cicl2\obj\Debug\net10.0\refint\cicl2.dll
+C:\Users\user\source\repos\cicl2\cicl2\obj\Debug\net10.0\cicl2.pdb
+C:\Users\user\source\repos\cicl2\cicl2\obj\Debug\net10.0\cicl2.genruntimeconfig.cache
+C:\Users\user\source\repos\cicl2\cicl2\obj\Debug\net10.0\ref\cicl2.dll

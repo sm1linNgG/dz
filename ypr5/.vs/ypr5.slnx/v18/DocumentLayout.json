@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\ypr5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0BBA13B-0C68-4251-8D61-A84080B1CB50}|ypr5\\ypr5.csproj|c:\\users\\user\\source\\repos\\ypr5\\ypr5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0BBA13B-0C68-4251-8D61-A84080B1CB50}|ypr5\\ypr5.csproj|solutionrelative:ypr5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ypr5\\ypr5\\Program.cs",
+              "RelativeDocumentMoniker": "ypr5\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ypr5\\ypr5\\Program.cs",
+              "RelativeToolTip": "ypr5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T12:04:32.746Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

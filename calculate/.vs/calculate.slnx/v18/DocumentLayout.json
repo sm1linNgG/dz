@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\calculate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67BDB3BD-90DF-492E-865B-46406A446DF2}|calculate\\calculate.csproj|c:\\users\\user\\source\\repos\\calculate\\calculate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67BDB3BD-90DF-492E-865B-46406A446DF2}|calculate\\calculate.csproj|solutionrelative:calculate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\calculate\\calculate\\Program.cs",
+              "RelativeDocumentMoniker": "calculate\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\calculate\\calculate\\Program.cs*",
+              "RelativeToolTip": "calculate\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T17:07:17.237Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

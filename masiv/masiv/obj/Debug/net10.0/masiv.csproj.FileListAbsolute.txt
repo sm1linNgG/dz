@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\masiv\masiv\bin\Debug\net10.0\masiv.exe
+C:\Users\user\source\repos\masiv\masiv\bin\Debug\net10.0\masiv.deps.json
+C:\Users\user\source\repos\masiv\masiv\bin\Debug\net10.0\masiv.runtimeconfig.json
+C:\Users\user\source\repos\masiv\masiv\bin\Debug\net10.0\masiv.dll
+C:\Users\user\source\repos\masiv\masiv\bin\Debug\net10.0\masiv.pdb
+C:\Users\user\source\repos\masiv\masiv\obj\Debug\net10.0\masiv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\masiv\masiv\obj\Debug\net10.0\masiv.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\masiv\masiv\obj\Debug\net10.0\masiv.AssemblyInfo.cs
+C:\Users\user\source\repos\masiv\masiv\obj\Debug\net10.0\masiv.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\masiv\masiv\obj\Debug\net10.0\masiv.dll
+C:\Users\user\source\repos\masiv\masiv\obj\Debug\net10.0\refint\masiv.dll
+C:\Users\user\source\repos\masiv\masiv\obj\Debug\net10.0\masiv.pdb
+C:\Users\user\source\repos\masiv\masiv\obj\Debug\net10.0\masiv.genruntimeconfig.cache
+C:\Users\user\source\repos\masiv\masiv\obj\Debug\net10.0\ref\masiv.dll

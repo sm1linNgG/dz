@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\ypr6\ypr6\bin\Debug\net10.0\ypr6.exe
+C:\Users\user\source\repos\ypr6\ypr6\bin\Debug\net10.0\ypr6.deps.json
+C:\Users\user\source\repos\ypr6\ypr6\bin\Debug\net10.0\ypr6.runtimeconfig.json
+C:\Users\user\source\repos\ypr6\ypr6\bin\Debug\net10.0\ypr6.dll
+C:\Users\user\source\repos\ypr6\ypr6\bin\Debug\net10.0\ypr6.pdb
+C:\Users\user\source\repos\ypr6\ypr6\obj\Debug\net10.0\ypr6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\ypr6\ypr6\obj\Debug\net10.0\ypr6.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ypr6\ypr6\obj\Debug\net10.0\ypr6.AssemblyInfo.cs
+C:\Users\user\source\repos\ypr6\ypr6\obj\Debug\net10.0\ypr6.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ypr6\ypr6\obj\Debug\net10.0\ypr6.dll
+C:\Users\user\source\repos\ypr6\ypr6\obj\Debug\net10.0\refint\ypr6.dll
+C:\Users\user\source\repos\ypr6\ypr6\obj\Debug\net10.0\ypr6.pdb
+C:\Users\user\source\repos\ypr6\ypr6\obj\Debug\net10.0\ypr6.genruntimeconfig.cache
+C:\Users\user\source\repos\ypr6\ypr6\obj\Debug\net10.0\ref\ypr6.dll

@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\novel\novel\bin\Debug\net10.0\novel.exe
+C:\Users\user\source\repos\novel\novel\bin\Debug\net10.0\novel.deps.json
+C:\Users\user\source\repos\novel\novel\bin\Debug\net10.0\novel.runtimeconfig.json
+C:\Users\user\source\repos\novel\novel\bin\Debug\net10.0\novel.dll
+C:\Users\user\source\repos\novel\novel\bin\Debug\net10.0\novel.pdb
+C:\Users\user\source\repos\novel\novel\obj\Debug\net10.0\novel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\novel\novel\obj\Debug\net10.0\novel.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\novel\novel\obj\Debug\net10.0\novel.AssemblyInfo.cs
+C:\Users\user\source\repos\novel\novel\obj\Debug\net10.0\novel.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\novel\novel\obj\Debug\net10.0\novel.dll
+C:\Users\user\source\repos\novel\novel\obj\Debug\net10.0\refint\novel.dll
+C:\Users\user\source\repos\novel\novel\obj\Debug\net10.0\novel.pdb
+C:\Users\user\source\repos\novel\novel\obj\Debug\net10.0\novel.genruntimeconfig.cache
+C:\Users\user\source\repos\novel\novel\obj\Debug\net10.0\ref\novel.dll

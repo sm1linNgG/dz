@@ -1,0 +1,25 @@
+﻿using System;
+
+class Program
+{
+    static void Main()
+    {
+        Console.Write("Введите сумму вклада: ");
+        double sum = Convert.ToDouble(Console.ReadLine());
+        double percent = 0;
+        double bonus = 15;
+
+        if (sum < 100)
+            percent = 0.05;
+        else if (sum >= 100 && sum <= 200)
+            percent = 0.07;
+        else if (sum > 200)
+            percent = 0.10;
+
+        double result = sum + sum * percent + bonus;
+        Console.WriteLine($"Сумма вклада с процентами и бонусом: {result}");
+
+        Console.ReadLine();
+    }
+}
+

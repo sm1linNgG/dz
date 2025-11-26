@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\цикл2\цикл2\bin\Debug\net10.0\цикл2.exe
+C:\Users\user\source\repos\цикл2\цикл2\bin\Debug\net10.0\цикл2.deps.json
+C:\Users\user\source\repos\цикл2\цикл2\bin\Debug\net10.0\цикл2.runtimeconfig.json
+C:\Users\user\source\repos\цикл2\цикл2\bin\Debug\net10.0\цикл2.dll
+C:\Users\user\source\repos\цикл2\цикл2\bin\Debug\net10.0\цикл2.pdb
+C:\Users\user\source\repos\цикл2\цикл2\obj\Debug\net10.0\цикл2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\цикл2\цикл2\obj\Debug\net10.0\цикл2.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\цикл2\цикл2\obj\Debug\net10.0\цикл2.AssemblyInfo.cs
+C:\Users\user\source\repos\цикл2\цикл2\obj\Debug\net10.0\цикл2.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\цикл2\цикл2\obj\Debug\net10.0\цикл2.dll
+C:\Users\user\source\repos\цикл2\цикл2\obj\Debug\net10.0\refint\цикл2.dll
+C:\Users\user\source\repos\цикл2\цикл2\obj\Debug\net10.0\цикл2.pdb
+C:\Users\user\source\repos\цикл2\цикл2\obj\Debug\net10.0\цикл2.genruntimeconfig.cache
+C:\Users\user\source\repos\цикл2\цикл2\obj\Debug\net10.0\ref\цикл2.dll

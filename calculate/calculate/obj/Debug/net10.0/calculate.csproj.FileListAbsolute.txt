@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\calculate\calculate\bin\Debug\net10.0\calculate.exe
+C:\Users\user\source\repos\calculate\calculate\bin\Debug\net10.0\calculate.deps.json
+C:\Users\user\source\repos\calculate\calculate\bin\Debug\net10.0\calculate.runtimeconfig.json
+C:\Users\user\source\repos\calculate\calculate\bin\Debug\net10.0\calculate.dll
+C:\Users\user\source\repos\calculate\calculate\bin\Debug\net10.0\calculate.pdb
+C:\Users\user\source\repos\calculate\calculate\obj\Debug\net10.0\calculate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\calculate\calculate\obj\Debug\net10.0\calculate.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\calculate\calculate\obj\Debug\net10.0\calculate.AssemblyInfo.cs
+C:\Users\user\source\repos\calculate\calculate\obj\Debug\net10.0\calculate.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\calculate\calculate\obj\Debug\net10.0\calculate.dll
+C:\Users\user\source\repos\calculate\calculate\obj\Debug\net10.0\refint\calculate.dll
+C:\Users\user\source\repos\calculate\calculate\obj\Debug\net10.0\calculate.pdb
+C:\Users\user\source\repos\calculate\calculate\obj\Debug\net10.0\calculate.genruntimeconfig.cache
+C:\Users\user\source\repos\calculate\calculate\obj\Debug\net10.0\ref\calculate.dll
