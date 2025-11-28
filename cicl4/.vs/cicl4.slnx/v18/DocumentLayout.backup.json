@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\cicl4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7249AA6A-0DF0-4AD1-B8AE-713A5FB6ED26}|cicl4\\cicl4.csproj|c:\\users\\user\\source\\repos\\cicl4\\cicl4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7249AA6A-0DF0-4AD1-B8AE-713A5FB6ED26}|cicl4\\cicl4.csproj|solutionrelative:cicl4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AC2CE7F3-C6FC-BC1F-195D-437D7067D84F}|cicl4\\cicl4.csproj|c:\\users\\user\\source\\repos\\cicl4\\cicl4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC2CE7F3-C6FC-BC1F-195D-437D7067D84F}|cicl4\\cicl4.csproj|solutionrelative:cicl4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +14,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +28,7 @@
               "RelativeDocumentMoniker": "cicl4\\Program.cs",
               "ToolTip": "C:\\Users\\user\\source\\repos\\cicl4\\cicl4\\Program.cs",
               "RelativeToolTip": "cicl4\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-09T11:43:06.134Z",
               "EditorCaption": ""

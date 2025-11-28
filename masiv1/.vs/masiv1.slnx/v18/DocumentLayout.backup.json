@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\masiv1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2210B2D-8561-7081-4CE8-8330F26EC35D}|masiv1\\masiv1.csproj|c:\\users\\user\\source\\repos\\masiv1\\masiv1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2210B2D-8561-7081-4CE8-8330F26EC35D}|masiv1\\masiv1.csproj|solutionrelative:masiv1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DC399313-E80A-4512-A21D-17F1F39AE812}|masiv1\\masiv1.csproj|c:\\users\\user\\source\\repos\\masiv1\\masiv1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC399313-E80A-4512-A21D-17F1F39AE812}|masiv1\\masiv1.csproj|solutionrelative:masiv1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,12 +14,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -32,6 +28,10 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-26T16:06:12.376Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

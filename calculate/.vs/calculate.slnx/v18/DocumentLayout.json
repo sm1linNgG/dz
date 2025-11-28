@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\calculate\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{67BDB3BD-90DF-492E-865B-46406A446DF2}|calculate\\calculate.csproj|c:\\users\\user\\source\\repos\\calculate\\calculate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67BDB3BD-90DF-492E-865B-46406A446DF2}|calculate\\calculate.csproj|solutionrelative:calculate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4E21DA2C-1433-7765-3F7A-2A70784C093F}|calculate\\calculate.csproj|c:\\users\\user\\source\\repos\\calculate\\calculate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E21DA2C-1433-7765-3F7A-2A70784C093F}|calculate\\calculate.csproj|solutionrelative:calculate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,16 +14,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\calculate\\calculate\\Program.cs",
               "RelativeDocumentMoniker": "calculate\\Program.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\calculate\\calculate\\Program.cs*",
-              "RelativeToolTip": "calculate\\Program.cs*",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\calculate\\calculate\\Program.cs",
+              "RelativeToolTip": "calculate\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-25T17:07:17.237Z",
